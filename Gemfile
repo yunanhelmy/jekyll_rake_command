@@ -1,5 +1,4 @@
 source "https://rubygems.org"
-group :development do
-  gem 'rake'
-  gem 'stringex'
-end
+
+gem 'rake'
+gem 'stringex'
